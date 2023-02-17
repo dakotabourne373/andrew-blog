@@ -1,6 +1,6 @@
 ---
 title: Graphics Cards Saves Lives
-date: '2023-02-16'
+date: '2023-02-14'
 tags: ['Nvidia', 'AI', 'VinBrain', 'Algorithm']
 draft: false
 summary: Nvidia is being used to power AI in Hospitals
