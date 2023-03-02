@@ -5,7 +5,7 @@ tags: ['AMD', 'Benchmark', '7590X3d']
 draft: false
 summary: AMD’s Benchmark for the new 7950x3D Leaked!!
 images: []
-layout: PostSimple
+layout: PostLayout
 canonicalUrl: https://andrew-blog-lovat.vercel.app/blog/amd-leak
 ---
 
